@@ -9,4 +9,4 @@ To generate a PDF from this LaTeX code, navigate to this folder in a terminal an
 ## Requirements
 You will need to have `xelatex` installed on your machine.
 
-Alternatively, you can use a site like [ShareLaTeX](https://sharelatex.com) or [Overleaf](https://www.overleaf.com/) to build and edit your LaTeX instead.
+Alternatively, you can use a site like [ShareLaTeX](https://it.sharelatex.com/) or [Overleaf](https://www.overleaf.com/) to build and edit your LaTeX instead.
