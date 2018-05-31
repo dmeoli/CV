@@ -1,5 +1,5 @@
 # Curriculum Vitae
-> My personal CV LaTeX code created from [Awesome CV LaTeX Template](https://github.com/posquit0/Awesome-CV) with more features.
+My personal CV LaTeX code created from [Awesome CV LaTeX Template](https://github.com/posquit0/Awesome-CV) with more features.
 
 ## Usage
 To generate a PDF from this LaTeX code, navigate to this folder in a terminal and run:
